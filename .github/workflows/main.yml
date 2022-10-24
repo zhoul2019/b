@@ -32,8 +32,8 @@
 #      - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
 #        run: |
 #          git diff
-#          git config --global user.email "qingwhat@gmail.com"
-#          git config --global user.name "rockbenben"
+#          git config --global user.email "okzhuce3@126.com"
+#          git config --global user.name "zhoul2019"
 #          git add .md_sha1 README.md
 #          git commit -m "Github Action auto Updated"
 #          git push
