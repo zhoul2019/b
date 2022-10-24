@@ -38,7 +38,7 @@
 #          git commit -m "Github Action auto Updated"
 #          git push
 #
-#      # 将文章复制到笔记页，以 VuePress 形式来管理文章知识
+#      # 将文章复制到笔记页，以 VuePress 形式 来管理文章知识
 #      - name: Copy blog
 #        uses: andstor/copycat-action@v3
 #        with:
