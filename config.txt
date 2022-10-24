@@ -1,5 +1,5 @@
 {
-    "USERNAME": "liangge",
-    "PASSWORD": "g54S0bSBR!wtO^^)5Q",
-    "XMLRPC_PHP": "填写xmlrpc地址信息，如 https://b.look4.cn/xmlrpc.php"
+    "USERNAME": "333",
+    "PASSWORD": "3330bSBR!wtO^^)5Q",
+    "XMLRPC_PHP": "填写xmlrpc地址信息，如 https://22.cn/xmlrpc.php"
 }
